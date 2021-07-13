@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 certifi==2018.10.15
 chardet==3.0.4
 Django==2.1
@@ -11,17 +10,3 @@ urllib3==1.23
 whitenoise==5.2.0
 django-heroku==0.3.1
 gunicorn==20.1.0
-=======
-certifi==2018.10.15
-chardet==3.0.4
-Django==2.1
-django-crispy-forms==1.7.2
-idna==2.7
-Pillow==5.2.0
-pytz==2018.5
-requests==2.19.1
-urllib3==1.23
-whitenoise==5.2.0
-django-heroku==0.3.1
-gunicorn==20.1.0
->>>>>>> fb399ce89c9193e54be3a8421e9c4f3ff2855d0a
